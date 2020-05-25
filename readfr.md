@@ -1,3 +1,5 @@
+ <p> <a href="https://github.com/Neo0698/info2/raw/master/app-release.apk"> Télécharger l'application pour téléphone Android </a> </p>
+
 bonjour et merci d'avoir un certain intérêt pour cette application, nous vous conseillons de lire ce paragraphe. dans ce paragraphe, je vais vous expliquer comment cette application fonctionne et de quelle manière nous pensons que cette application est utile. <p> </p>
 Donc, tout d'abord, cette application est un navigateur Web à combiner avec un moteur de recherche, mais ce n'est pas seulement un moteur de recherche ou un navigateur Web, c'est aussi un réseau social, sachez que vous vous demandez pourquoi nous avons créé une application qu'un moteur de recherche, un navigateur Web et un réseau social, expliquons-nous.
 
